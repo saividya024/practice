@@ -1,0 +1,10 @@
+div{
+    box-sizing: border-box;
+    background-color: aquamarine;
+    width: 400px;
+    height: 100%;
+    padding: 40px 20px 20px 60px;
+    border: 2px dotted red;
+    margin: 100px 10px 10px 150px;
+
+}
